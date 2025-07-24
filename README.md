@@ -9,7 +9,7 @@ A simple and responsive web application that allows users to convert currencies 
 [👉 View Live App](#)  
 *## 🔗 Live Demo
 
-[Click here to view the Currency Converter](https://currency-converter-ashy-alpha.vercel.app/)
+[Click here to view the Currency Converter](https://currency-converter-aimy-alpha.vercel.app/)
 
 
 ---
