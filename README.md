@@ -7,7 +7,10 @@ A simple and responsive web application that allows users to convert currencies 
  Live Demo
 
 [👉 View Live App](#)  
-*Replace `#` with your deployed app link after hosting on Vercel or GitHub Pages.*
+*## 🔗 Live Demo
+
+[Click here to view the Currency Converter](https://currency-converter-ashy-alpha.vercel.app/)
+
 
 ---
 
